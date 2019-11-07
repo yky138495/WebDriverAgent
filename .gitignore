@@ -7,7 +7,6 @@
 
 ## Build generated
 build/
-clang/
 DerivedData
 
 ## Various settings
@@ -34,11 +33,6 @@ xcuserdata
 # AppCode
 .idea/
 
-# Carthage
-Carthage/Build
-Carthage/Checkouts
-Carthage/Cartfile.resolved
-
 # Modules map recreated on each build
 Modules/module.modulemap
 
@@ -46,7 +40,6 @@ Modules/module.modulemap
 *.trace
 
 # node stuff
-node_modules
 
 # webdriveragent zip bundles
 bundles/
